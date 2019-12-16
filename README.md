@@ -1,2 +1,2 @@
 # My_Personal_Projects
-This Repository will contain all of my personal projects
+This Repository contains all of my personal projects
